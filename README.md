@@ -1,1 +1,1 @@
-# Netflix_-erik_Analizi
+# Netflix_İçerik_Analizi
